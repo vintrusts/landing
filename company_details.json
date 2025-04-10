@@ -1,0 +1,15 @@
+{
+    "company": {
+      "name": "Vintrust",
+      "address": "123 King St, Sydney NSW 2000, Australia",
+      "phone": "(629) 555-0129",
+      "email": "contact@Vintrusts.site",
+      "social": {
+        "facebook": "https://facebook.com",
+        "twitter": "https://twitter.com",
+        "instagram": "https://instagram.com",
+        "pinterest": "https://pinterest.com"
+      }
+    }
+  }
+  
