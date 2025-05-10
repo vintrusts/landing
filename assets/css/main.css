@@ -636,13 +636,13 @@ div.demo img {
 @media (max-width: 575px) {
   .back-to-top-wrapper {
     right: 20px;
-    bottom: 20px;
+    bottom: 50px;
   }
 }
 .back-to-top-wrapper.back-to-top-btn-show {
   visibility: visible;
   opacity: 1;
-  bottom: 150px;
+  bottom: 110px;
 }
 
 .back-to-top-btn {
